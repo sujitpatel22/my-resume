@@ -1,43 +1,69 @@
-#### ABOUT
+# Sujit Patel
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <div>
+    <strong>Phone:</strong> +91 7745971630
+  </div>
+  <div>
+    <strong>Email:</strong> <a href="mailto:sujitpatel0202@gmail.com">sujitpatel0202@gmail.com</a>
+  </div>
+  <div>
+    <strong>GitHub:</strong> <a href="https://github.com/sujitpatel22">/sujitpatel22</a>
+  </div>
+  <div>
+    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sujit-patel-85078723b">sujit-patel-85078723b</a>
+  </div>
+</div>
+
+
+### Professional Summary
 ---
-My name is Sujit Patel, aka "Apex"
-Machine learning engineer, ML researcher @ Amity University, Madhya Pradesh, India.
-- 1+ year experience work in deep learning, machine learning algorithms, creating Machine learning models, visualizations and working on Linux.
-- 2+ years experience in creating object-oriented applications with Python and C++ & Data structures and algorithms.
+- 1+ year experience in deep learning, machine learning algorithms, creating machine learning models, visualizations, and working on Linux.
+- 2+ years experience in creating object-oriented applications with Python and C++ & data structures and algorithms.
 - Certified in ML & DL from DeepLearning.AI & Harvard and proficient in TensorFlow & Keras.
-- Notable works include (but not limited to), RAG system and Controllable generation using GANs.
+- Notable works include (but not limited to), RAG system and controllable generation using GANs.
 - Enhancing expertise in LLMs and advanced machine learning techniques.
 
-#### NOTABLE WORK:
+### Projects
 ---
-Controllable image generation with GAN (TensorFlow, Python, NumPy) July 2024
-  - Implemented a feedback-based noise update system with pretrained MobileNet classifier.
-  - Reduced the average feature overlap by 40% compared to the baseline model.
+#### Controllable Image Generation with GAN (TensorFlow, Python, NumPy) - July 2024
+- Implemented a feedback-based noise update system with pretrained MobileNet classifier.
+- Achieved 93% generation accuracy; significantly enhanced latent space, resulting in clear features.
+- Reduced the average feature overlap by 40% compared to the baseline model.
+- Utilized the celebA dataset with 40 classes and annotated examples.
 
-Retrieval Augmented Generation System (Python, Pinecone DB, Google API, Django) May 2024
-  - Created context-query search system using google search API and vector database.
-  - Scored 89% accuracy, leading to a 45% reduction in false positives.
-  - Increased user experience by 1.4x by reducing average result time to 0.4 sec for 2 048 tokens.
+#### Retrieval Augmented Generation System (Python, Pinecone DB, Google API, Django) - May 2024
+- Created context-query search system using Google Search API and vector database.
+- Scored 89% accuracy, leading to a 45% reduction in false positives; implemented vector similarity search, enhancing machine learning model with BERT fine-tuning on SQuAD.
+- Increased user experience by 1.4x by reducing average result time to 0.4 sec for 2048 tokens.
+- Designed a responsive interface with Django for query search with download result option.
 
-Explainable AI: Grad-CAM and scene detection (TensorFlow, Python, NumPy) April 2024
-  - Created a gradient visualization system for analysing feature weights in an image for classification.
-  - Achieved 94% training accuracy and 92% validation accuracy with cross validation set.
+#### Explainable AI: Grad-CAM and Scene Detection (TensorFlow, Python, NumPy) - April 2024
+- Created a gradient visualization system for analyzing feature weights in an image for classification.
+- Trained a ResNet model for feature extraction on Microsoft dataset with 17,034 original and 17,034 augmented examples in 6 classes.
+- Added a custom training loop with classification layers to extract gradient channels for visualization.
+- Achieved 94% training accuracy and 92% validation accuracy with cross-validation set.
 
-#### SKILLS
+### Skills
 ---
-Machine Learning, Deep Learning, Neural Networks, LLM Fine-tuning, Azure, SQL, Linux
-C++, Python, OOP, HTML/CSS
-TensorFlow, Keras, Django, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
-Strategic Thinking, Collaboration, Cognitive Flexibility, Communication
+**Core Skills:** Machine learning, Deep learning, Neural Networks, LLM fine-tuning, Azure, MySQL, SQL, Linux  
+**Programming Languages:** C++, Python, Object-oriented programming, HTML, CSS  
+**Frameworks/Libraries:** TensorFlow, Keras, Django, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn  
+**Soft Skills:** Strategic Thinking, Collaboration, Cognitive Flexibility, Communication
 
-#### CERTIFICATIONS
+### Certifications
 ---
-Large Language Models (LLMs) Operations specialization	(Duke University, In progress)
-Generative Adversarial networks (GANs) specialization	(DeepLearning.AI, In progress)
-Python for Data Science and Machine Learning (Harvardx CS109x)	(Harvard University, July 2024)
-Machine Learning with Python (MITx 6.86x)	(MIT, July 2024)
-Deep Learning specialization & Advance TensorFlow	(DeepLearning.AI, May 2024)
+LLMs Operations specialization&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Duke University, In progress)<br>
+GANs specialization&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(DeepLearning.AI, In progress)<br>
+Data Science & Machine Learning(Harvardx CS109x)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Harvard, July 2024)<br>
+Machine Learning with Python (MITx 6.86x)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(MIT, July 2024)<br>
+Deep Learning & Advance TensorFlow specialization&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(DeepLearning.AI, May 2024)<br>
 
+### Education
 ---
-I create and optimise algorithms that drive new ideas with technologies.
-I love to read books and learn new things.
+**Bachelor of Computer Applications (BCA)** - Amity University, Madhya Pradesh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022 – 2025  
+CGPA: 8.51 / 10
+
+**X, XII** - ST. Joseph’s School (ISC), Singrauli, Madhya Pradesh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019 – 2021  
+Percentage: 83.3%
+```
