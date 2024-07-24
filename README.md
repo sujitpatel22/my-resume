@@ -1,7 +1,7 @@
 #### ABOUT
 ————————————————————————————————————————————————————————————————————————————————————————————
-- My name is Sujit Patel, aka "Apex", 
-- Machine learning engineer, ML researcher @ Amity University, Madhya Pradesh, India.
+My name is Sujit Patel, aka "Apex"
+Machine learning engineer, ML researcher @ Amity University, Madhya Pradesh, India.
   - ● 1+ year experience work in deep learning, machine learning algorithms, creating Machine learning models, visualizations and working on Linux.
   - ● 2+ years experience in creating object-oriented applications with Python and C++ & Data structures and algorithms.
   - ● Certified in ML & DL from DeepLearning.AI & Harvard and proficient in TensorFlow & Keras.
