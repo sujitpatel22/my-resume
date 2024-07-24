@@ -1,4 +1,4 @@
-#### ABOUT
+**ABOUT**
 <hr>
 My name is Sujit Patel, aka "Apex" <br>
 Machine learning engineer, ML researcher @ Amity University, Madhya Pradesh, India. <br>
