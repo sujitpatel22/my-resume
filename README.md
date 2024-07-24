@@ -66,4 +66,3 @@ CGPA: 8.51 / 10
 
 **X, XII** - ST. Joseph’s School (ISC), Singrauli, Madhya Pradesh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019 – 2021  
 Percentage: 83.3%
-```
