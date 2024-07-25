@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   <div>
-    <strong>Phone:</strong> +91 7745971630
+    <strong>Phone:</strong> +91 ******1630
   </div>
   <div>
     <strong>Email:</strong> <a href="mailto:sujitpatel0202@gmail.com">sujitpatel0202@gmail.com</a>
@@ -51,7 +51,7 @@
 **Frameworks/Libraries:** TensorFlow, Keras, Django, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn  
 **Soft Skills:** Strategic Thinking, Collaboration, Cognitive Flexibility, Communication
 
-### Certifications
+### [Certifications](https://github.com/sujitpatel22/Certifications/blob/main/README.md)
 ---
 LLMs Operations specialization&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Duke University, In progress)<br>
 GANs specialization&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(DeepLearning.AI, In progress)<br>
